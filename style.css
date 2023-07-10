@@ -17,6 +17,7 @@ background: #E55473;
 
 }
 /* header section */
+
 .head{
 
 background: rgba(229, 84, 115, 0.10);
@@ -118,7 +119,6 @@ width: 464px;
 height: 482px;
 flex-shrink: 0;
 border-radius: 8px;
-/* background: rgba(39, 39, 39, 0.03); */
 margin-left: 20px;
 margin-right: 20px;
 background: rgba(229, 84, 115, 0.10);
@@ -145,5 +145,45 @@ margin-top: 20px;
 
 .images2{
 margin-top: 20px;
+
+}
+.bestseller{
+
+margin: 64px 120px 20px 120px;
+
+}
+.best-flower{
+width: 342px;
+height: 482px;
+flex-shrink: 0;
+border-radius: 300px;
+background: rgba(229, 84, 115, 0.10);
+text-align: center;
+
+}
+
+.bestseller h2{
+margin-top: 20px;
+
+}
+.bestseller p{
+margin-top: 20px;
+
+}
+
+.best-flower img{
+width: 220px;
+height: 343px;
+flex-shrink: 0;
+}
+
+.best-flower p{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+margin-top: 20px;
+
 
 }
