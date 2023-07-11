@@ -130,7 +130,7 @@ background: rgba(229, 84, 115, 0.10);
 .flower-box img{
 width: 240px;
 height: 360.563px;
-
+margin-left: 40px;
 }
 .flower-box p{
 color: #272727;
