@@ -14,6 +14,7 @@ gap: 10px;
 border-radius: 6px;
 color: white;
 background: #E55473;
+border: none;
 
 }
 /* header section */
@@ -157,7 +158,7 @@ width: 342px;
 height: 482px;
 flex-shrink: 0;
 border-radius: 300px;
-background: rgba(229, 84, 115, 0.10);
+background: rgba(39, 39, 39, 0.03);
 text-align: center;
 
 }
@@ -185,5 +186,105 @@ font-size: 24px;
 font-weight: 700;
 margin-top: 20px;
 
+
+}
+
+/* ...................... */
+
+.deal{
+
+background: rgba(229, 84, 115, 0.10);
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 100%;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+margin-top: 120px;
+
+}
+
+.deal-title h2{
+
+color: #272727;
+font-size: 48px;
+font-style: normal;
+font-weight: bold;
+text-align: center;
+
+}
+
+.deal-title p{
+margin-top: 20px;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+}
+
+.deal-title button{
+
+margin-top: 30px;
+margin-left: 200px;
+font-size: 18px;
+
+}
+
+.deal-title{
+
+margin-left: 120px;
+
+}
+
+.deal-image img{
+width: 318px;
+height: 420px;
+margin-right: 380px;
+
+
+}
+
+
+/* ......................................... */
+
+.insta{
+
+margin-top: 120px;
+margin-left: 200px;
+margin-right: 240px;
+
+}
+
+.insta-title{
+
+justify-content: center;
+align-items: center;
+
+}
+
+
+.insta-title p{
+margin-top: 20px;
+text-align: center;
+font-size: 18px;
+
+}
+
+.insta-images{
+margin-top: 20px;
+display: flex;
+margin-right: 300px;
+
+}
+.insta-box{
+
+width: 342px;
+height: 396px;
+flex-shrink: 0;
+margin-left: 10px;
+margin-right: 10px;
 
 }
