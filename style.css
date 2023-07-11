@@ -288,3 +288,149 @@ margin-left: 10px;
 margin-right: 10px;
 
 }
+
+/* ...................... */
+
+.feedback{
+
+margin-top: 30px;
+justify-content: left;
+margin-left: 200px;
+/* margin-right: 240px; */
+width: 500px;
+height: 600px;
+ background-color: #f2f2f2; 
+padding: 20px; 
+ word-spacing: 4px; 
+line-height: 1.5; 
+border-radius: 30px;
+
+
+}
+
+.all-feeds{
+display: flex;
+margin-left: 100px;
+}
+
+.feed-button{
+text-decoration: none;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 80px;
+margin-left: 100px;
+}
+
+.person{
+
+display: flex;
+align-items: center;
+
+
+}
+
+.person-image {
+  width: 100px; 
+  height: 100px;
+  border-radius: 50%; 
+  overflow: hidden; 
+}
+
+.person-image img {
+  width: 100%; 
+  height: auto;
+}
+
+.person-name {
+margin-left: 20px;
+}
+
+.feedback p{
+margin-top: 20px;
+font-size: 25px;
+
+
+}
+
+
+
+
+
+/* ...................... */
+.latest-deals{
+margin-top: 200px;
+width: 1500px;
+height: 600px;
+flex-shrink: 0;
+border-radius: 8px;
+background-image: url("Flower Asset/Rectangle\ 9.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin-left: 150px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.deal-title{
+
+margin-right: 60px;
+
+}
+
+.button input{
+
+width: 500px;
+height: 32px;
+padding: 10px;
+margin-left: 20px;
+border: none;
+font-size: 20px;
+}
+.button button{
+
+
+margin-right: 100px;
+}
+
+
+.footer{
+margin-top: 80px;
+background-color: black;
+width: 100%;
+height: 400px;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.footer h2{
+color:white;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 30px;
+margin-right: 60px;
+}
+.footer span{
+
+color: #E55473;
+
+
+}
+.footer p{
+margin-top: 20px;
+color: rgba(255, 255, 255, 0.90);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-right: 50px;
+
+}
