@@ -20,7 +20,7 @@ border: none;
 /* header section */
 
 .head{
-
+width: 100%;
 background: rgba(229, 84, 115, 0.10);
 height: 800px;
 display: flex;
@@ -100,7 +100,7 @@ margin-top: 20px;
 .all-flowers{
 
 margin-top: 54px;
-margin-left: 240px;
+margin-left: 120px;
 margin-right: 240px;
 
 }
@@ -130,7 +130,6 @@ background: rgba(229, 84, 115, 0.10);
 .flower-box img{
 width: 240px;
 height: 360.563px;
-margin-left: 100px;
 
 }
 .flower-box p{
@@ -150,7 +149,7 @@ margin-top: 20px;
 }
 .bestseller{
 
-margin: 64px 120px 20px 120px;
+margin: 64px 120px 20px 40px;
 
 }
 .best-flower{
@@ -253,7 +252,7 @@ margin-right: 380px;
 .insta{
 
 margin-top: 120px;
-margin-left: 200px;
+margin-left: 50px;
 margin-right: 240px;
 
 }
@@ -368,7 +367,6 @@ background-image: url("Flower Asset/Rectangle\ 9.png");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-margin-left: 150px;
 display: flex;
 align-items: center;
 justify-content: center;
